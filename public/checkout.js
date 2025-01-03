@@ -1,5 +1,5 @@
 
-const stripe = Stripe("pk_test_51NsmYFL6UDKZvIsfbanqmmFTlLNz2fq5p9oai2NRjE7mMP6MOjmX6eUiaKPpeF3C3jAIsSxDbyS0wlQeiUqZu6aN00qMdOCEbV");
+const stripe = Stripe("pk_test_51NsmYFL6UDKZvIsfbanqmmFTlLNz2fq5p9oai2NRjE7mMP6MOjmX6eUiaKPpeF3C3jAIsSxDbyS0wlQeiUqZu6aN00qMdOCEbV");;
 
 initialize();
 

@@ -2,7 +2,7 @@
 // To see your test secret API key embedded in code samples, sign in to your Stripe account.
 // You can also find your test secret API key at https://dashboard.stripe.com/test/apikeys.
 
-const stripe = require('stripe')('sk_test_51NsmYFL6UDKZvIsfSm2KES67iJyZmWmePEkqxOlRHjvUEDupEWJIGiOkTH2QLCDp5KHaVmTwkEu40odjl9ZXNvDt00OIhZUNm0');
+const stripe = require('stripe')("sk_test_51NsmYFL6UDKZvIsfSm2KES67iJyZmWmePEkqxOlRHjvUEDupEWJIGiOkTH2QLCDp5KHaVmTwkEu40odjl9ZXNvDt00OIhZUNm0");;
 
 const express = require('express');
 const app = express();
